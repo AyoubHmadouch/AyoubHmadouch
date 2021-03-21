@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="developer.png" alt="drawing" width="70%" height="30%"/>
+</p>
+
 ### Hi there 👋
 ### I'm Ayoub Hmadouch,a Software engineering student at ENSIAS & Junior Full Stack Developer.
 
