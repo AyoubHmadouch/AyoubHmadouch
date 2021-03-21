@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="developer.png" alt="drawing" width="70%" height="30%"/>
+  <img src="developer.png" alt="drawing" width="60%" height="25%" />
+  
 </p>
 
 ### Hi there 👋
