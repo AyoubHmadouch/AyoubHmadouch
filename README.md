@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="developer.png" alt="drawing" width="60%" height="25%" />
+  <img src="developer.png" alt="drawing" width="50%"/>
   
 </p>
 
