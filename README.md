@@ -16,5 +16,7 @@
 * 🔭 I’m currently working on an android project with my team
 * 🌱 I’m currently learning Flutter,Spring Framework
 
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=AyoubHmadouch&show_icons=true&theme=tokyonight" /></p>
+
 
 
