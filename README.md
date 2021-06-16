@@ -3,11 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubhmadouch" alt="ayoubhmadouch" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework,React**
+- 🌱 I’m currently learning **Spring Framework,React,DevOps**
 
 - 💬 Ask me about **Java**
-
-- 📫 How to reach me **ayoubhmd99@gmail.com**
 
 - 📄 Know about my experiences [Ayoub HMADOUCH](http://www.linkedin.com/in/ayoub-hmadouch)
 
@@ -28,8 +26,8 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubhmadouch&show_icons=true&locale=en&layout=compact" alt="ayoubhmadouch" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubhmadouch&show_icons=true&locale=en&layout=compact" alt="ayoubhmadouch" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubhmadouch&show_icons=true&locale=en" alt="ayoubhmadouch" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubhmadouch&show_icons=true&locale=en" alt="ayoubhmadouch" /></p>
 
 
