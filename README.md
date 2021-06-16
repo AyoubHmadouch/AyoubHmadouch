@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayoubhmd99@gmail.com**
 
-- 📄 Know about my experiences [http://www.linkedin.com/in/ayoub-hmadouch](http://www.linkedin.com/in/ayoub-hmadouch)
+- 📄 Know about my experiences [Ayoub HMADOUCH](http://www.linkedin.com/in/ayoub-hmadouch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,9 +27,9 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubhmadouch&" alt="ayoubhmadouch" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubhmadouch&show_icons=true&locale=en&layout=compact" alt="ayoubhmadouch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubhmadouch&show_icons=true&locale=en" alt="ayoubhmadouch" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubhmadouch&show_icons=true&locale=en" alt="ayoubhmadouch" /></p>
 
 
