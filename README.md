@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub HMADOUCH</h1>
 <h3 align="center">A software engineering student at ENSIAS & Junior Full Stack Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubhmadouch" alt="ayoubhmadouch" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubhmadouch" alt="ayoubhmadouch" /></a> </p> -->
 
 - 🌱 I’m currently learning **Spring Framework,React,DevOps**
 
