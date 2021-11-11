@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub HMADOUCH</h1>
-<h3 align="center">Junior Full Stack Developer (Java/JEE & Spring boot & React JS</h3>
+<h3 align="center">Junior Full Stack Developer (Java/JEE & Spring boot & React JS)</h3>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubhmadouch" alt="ayoubhmadouch" /></a> </p> -->
 
