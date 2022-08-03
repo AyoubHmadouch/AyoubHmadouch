@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Hmadouch</h1>
 <h3 align="center">Full Stack Java Developer (Java/JEE | Spring boot | React JS)</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ayoubhmadouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayoubhmadouch" height="30" width="40" /></a>
