@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Hmadouch</h1>
-<h3 align="center">Full Stack Java Developer (Java/JEE | Spring boot | React JS)</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
