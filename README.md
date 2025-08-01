@@ -1,9 +1,40 @@
-<h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Cloud DevOps Engineer</h3>
+# 👋 Hi, I'm Ayoub HMADOUCH
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🎯 Cloud & DevOps Engineer | AWS | Automation & Infrastructure as Code | Terraform | Kubernetes | CI/CD
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🔍 I design and automate secure, scalable AWS infrastructures using best practices in DevOps and Infrastructure as Code. 
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🚀 Cloud & DevOps
+- **Cloud**: AWS (multi-account), Landing Zones, IAM, VPC, Transit Gateway, S3, EC2, CloudWatch, Lambda, Systems Manager (SSM)
+- **IaC**: Terraform, AWS CloudFormation, AWS CDK, AWS SAM
+- **Containers**: Docker, Kubernetes (EKS), Helm
+- **CI/CD**: GitLab CI/CD, GitHub Actions, CodePipeline
+- **Automation & Scripting**: Python (boto3), Bash, Ansible
+- **Monitoring**: CloudWatch, Prometheus/Grafana
+
+---
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| ✅ AWS Certified Solutions Architect – Associate | AWS |
+| ✅ AWS Certified Developer – Associate | AWS |
+| ✅ AWS Certified SysOps Administrator – Associate | AWS |
+| ✅ HashiCorp Certified: Terraform Associate | HashiCorp |
+| ✅ Certified Kubernetes Administrator (CKA) | CNCF |
+
+---
+
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-hmadouch/)
+- 🌐 [Personal Blog (WIP)](https://medium.com/@yourname)
+- ✉️ Email: ayoubhmadouch@outlook.fr
+
+---
+
+> *“Build with security. Automate with intent. Scale with resilience.”*
+
